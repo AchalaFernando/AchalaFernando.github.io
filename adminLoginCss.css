@@ -1,0 +1,29 @@
+body{
+	background-color:  black;
+	width: 100%;
+	height: 700px;
+}
+#adminImg{
+	width: 40%;
+	height: 300px;
+	float: center;
+}
+#adminHeading{
+	color: white;
+}
+#txtBox{
+	width: 250px;
+	height: 50px;
+	border-radius: 5px;
+	border-color: lightblue;
+	font-family: Amita;
+	font-size: 30px;
+}
+#loginBtn{
+	width: 80px;
+	height: 30px;
+	border-radius: 5px;
+	background-color: grey;
+	font-size: 20px;
+	
+}

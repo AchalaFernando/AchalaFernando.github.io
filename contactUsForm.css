@@ -1,0 +1,69 @@
+body{
+	background-color: black;
+	background-image: url("contactUsFormBackground.jpg");
+    opacity: 0.8;
+  	filter: alpha(opacity=50);
+}
+
+#contactTxtBox{
+	width: 300px;
+	height: 30px;
+	border-radius: 5px;
+}
+#contactForm{
+	width: 500px;
+	height: 600px;
+	transition-property: none;
+	border-radius: 5px;
+	background-image: url("contactUsFormBackground.jpg");
+	opacity: none;
+	
+	
+}
+#contactUsSendBtn{
+	border-radius: 5px;
+	width: 250px;
+	height: 40px;
+	padding-left: 10px;
+	font-family: Amita;
+	font-size: 20px;
+}
+#navBar{
+	width:70%;
+	height: 60px;
+	border-width: 5px;
+	border-radius: 5px;
+	background-color: white;
+	shape-margin: 20px;
+	text-align: center;
+	box-shadow: black;
+	padding: 10px;
+	word-spacing: 10px;
+}
+#navBarLink{
+	display: inline;
+	
+	border-radius: 5px;
+}
+a#navBarLink:hover{
+	background-color: grey;
+	width: 50px;
+	height: 30px;
+}
+#navBarItems {
+	color: black;
+	font-style: inherit;
+	display: inline-block;
+
+}
+
+#navBarItem:hover{
+	background-color: white;
+	border-radius: 100px;
+}
+#navBarItem{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
